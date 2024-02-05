@@ -1,10 +1,10 @@
-package exercicios;
+package exercicio01;
 
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Tarefa01 {
+public class SepararGrupos {
     public static void main(String[] args) {
         ListaGeneros();
     }
